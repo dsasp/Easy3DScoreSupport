@@ -12,6 +12,7 @@ Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DS
 
 The app does not process personal information. App data is kept on your device.
 
+Checkout [Easy3DScore discussion](https://github.com/dsasp/Easy3DScore/discussions/1) to ask questions.
 
 ## Deutsch
 
@@ -26,3 +27,5 @@ Entwurf der (englischen) Dokumentation ist in [en_help](https://github.com/dsasp
 Eine deutsche Version folgt.
 
 Die App verarbeitet keine persönliche Daten. App Daten werden auf deinem Gerät gespeichert.
+
+Schau dir [Easy3DScore Diskussionen](https://github.com/dsasp/Easy3DScore/discussions/1) an um Fragen zu stellen. Fragen können selbstverständlich auch auf deutsch gestellt werden.
