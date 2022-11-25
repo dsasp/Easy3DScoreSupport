@@ -6,7 +6,7 @@ App for 3D archery. App supports documenting 3D archery scores.
 
 Available for german and english locale.
 
-Runs on iPhones. Link to AppStore will be added here.
+Runs on iPhones. Link to AppStore to be added here.
 
 Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md).
 
