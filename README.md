@@ -19,4 +19,6 @@ Verfügbar in deutsch und englisch.
 
 Läuft auf iPhones. Ein Link zum AppStore kommt bald. 
 
-Entwurf der (englischen) Dokumentation ist hier verfügbar. Eine deutsche Version folgt.
+Entwurf der (englischen) Dokumentation ist in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md) verfügbar. 
+
+Eine deutsche Version folgt.
