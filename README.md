@@ -10,6 +10,8 @@ Runs on iPhones. Link to AppStore will be added here.
 
 Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md).
 
+The app does not store any personal information. App data is kept on your device.
+
 
 ## German
 
@@ -22,3 +24,5 @@ Läuft auf iPhones. Ein Link zum AppStore kommt bald.
 Entwurf der (englischen) Dokumentation ist in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md) verfügbar. 
 
 Eine deutsche Version folgt.
+
+Die App speichert keine persönliche Daten. App Daten werden auf deinem Gerät gespeichert.
