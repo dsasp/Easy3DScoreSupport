@@ -13,7 +13,7 @@ Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DS
 The app does not process personal information. App data is kept on your device.
 
 
-## German
+## Deutsch
 
 App für 3D Bogenschützen. Die App erlaubt das dokumentieren von Ergebnissen auf einem 3D Parcours. 
 
