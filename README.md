@@ -8,7 +8,7 @@ Available for german and english locale.
 
 Runs on iPhones. Link to AppStore coming soon.
 
-Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md).
+Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DScore/blob/main/en_help.md).
 
 The app does not process personal information. App data is kept on your device.
 
@@ -22,7 +22,7 @@ Verfügbar in deutsch und englisch.
 
 Läuft auf iPhones. Ein Link zum AppStore kommt bald. 
 
-Entwurf der (englischen) Dokumentation ist in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md) verfügbar. 
+Entwurf der (englischen) Dokumentation ist in [en_help](https://github.com/dsasp/Easy3DScore/blob/main/en_help.md) verfügbar. 
 
 Eine deutsche Version folgt.
 
