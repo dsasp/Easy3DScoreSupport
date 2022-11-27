@@ -2,11 +2,11 @@
 
 ## English
 
-App for 3D archery. App supports documenting 3D archery scores. 
+Simple app to document 3D archery scores. 
 
 Available for german and english locale.
 
-Runs on iPhones. Link to AppStore to be added here.
+Runs on iPhones. Link to AppStore coming soon.
 
 Initial documentation is available in [en_help](https://github.com/dsasp/Easy3DScore/edit/main/en_help.md).
 
@@ -16,7 +16,7 @@ Checkout [Easy3DScore discussion](https://github.com/dsasp/Easy3DScore/discussio
 
 ## Deutsch
 
-App für 3D Bogenschützen. Die App erlaubt das dokumentieren von Ergebnissen auf einem 3D Parcours. 
+Eine einfache App für 3D Bogenschützen. Die App erlaubt das dokumentieren von Ergebnissen auf einem 3D Parcours. 
 
 Verfügbar in deutsch und englisch.
 
