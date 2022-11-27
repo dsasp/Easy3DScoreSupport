@@ -11,7 +11,7 @@ Perform the following steps to start your first 3D Event.
 
 ## Creating archers
 
-Creating archers is done from the start screen.
+You can add archers from the start screen.
 
 Tap on the 'Archers' button. The **Archers list** screen will open.
 
@@ -29,19 +29,17 @@ Repeat above steps to add more archers.
 
 ## Creating 3D courses
 
-Creating 3D courses is done from the start screen.
+You can add 3D courses from the start screen.
 
 Tap on the 'Courses' button. The **Course list**. screen will open.
 
 When using the app for the first time there are no courses set.
 
-To create a new course, tap on the + sign and enter course data.
-
-You must fill-in a name. Other fields are optional.
+To create a new course, tap on the + sign and enter course name.
 
 Tap 'Done' to save your input, or 'Cancel' to discard changes.
 
-**Course is not required to start a new event.** 
+**Course is not required to start an event.** 
 
 Repeat above steps to add more courses.
 
@@ -67,16 +65,18 @@ The following needs to be set to define the event.
 
 ### Event name
 
-The event name defaults to something like '3DEvent-currentDate'. 
+The event name is something like _'3DEvent-currentDate'_. 
 
 Accept the default or change event name by tapping on the pencil icon.
 
 ### Archers
 
-You must add at least one archer to an event. 
+**You must add at least one archer to an event.** 
 
-Tap on + sign on the right to add archer. A list of archers
-defined in a prior step is shown.
+Tap on + to add archer(s). A list of previously defined
+archers is shown.
+
+The list is empty if no archers have been set yet. Tap + to add an archer.
 
 Select archer(s) for the event. Tap 'Save' when done.
 
@@ -84,17 +84,20 @@ Select archer(s) for the event. Tap 'Save' when done.
 
 You must select a scoring system for the event. 
 
-Use preselected default or tap on the pencil icon to show available scoring systems. 
+Use preselected system or tap on pencil icon to show available scoring systems. 
 
-Select one by tapping on the row. Tap 'Save' to save you selection.
+Select one by tapping on respective row. Tap 'Save' to save you selection.
 
 ### Course
 
 You can optionally add a course to the event, or continue w/o course. 
 
-To add a course tap on pencil icon. Available course will show. 
+To add a course tap on pencil icon. A list of previously defined
+courses is shown. 
 
-Select a course, then tap on 'Save' button to save your selection.
+The list is empty if no course have been set yet. Tap + to add a course.
+
+Select a course for the event. Tap 'Save' when done.
 
 
 ### Start Event
@@ -108,16 +111,16 @@ Review section below for details on scoring and navigation between targets.
 
 ## Scoring
 
-After starting a new event the **Scoring screen** for the first 
-target is shown.
+Starting a new event opens the **Scoring screen** for the first 
+target.
 
 Current target number is shown at the top.
 
 A list of archers is shown below current target number.
 
-There is one row for every archer. Archer's total score for target is show on the right.
+There is one row for every archer. Archer's score for target is on the right.
 
-Tap on row to enter scores for archer. 
+Tap on row to enter scores for an archer. 
 
 Select applicable scores. Tap 'Done' when ready.
 
@@ -133,10 +136,9 @@ When done move on to the next target (see section below).
 
 ### Navigating targets
 
-You can navigate between targets for which you have entered scores at any time during
-the event. 
+You can navigate between scored targets at any time during the event. 
 
-This allows to review/update scores for previous targets if needed.
+This allows review/update of scores for previous targets if needed.
  
 #### Next target
 
@@ -162,12 +164,13 @@ Moving to previous target is disabled when on first target.
 
 You can exit the event at any time.
 
-Tap on the exit button (door icon) at the bottom. Event information and
-archer statistics is shown for review.
+Tap on the Exit button to leave event. 
+
+Event information and archer statistics is shown for your information.
 
 Tap on a row for archer statistics.
 
-Press exit button again. A final exit confirmation dialog is shown.
+Tap Exit button again. A final confirmation dialog is shown.
 
 All data entered during the event will be lost upon exit.
 
@@ -176,17 +179,17 @@ To continue event tap on '< Back' top left.
 
 ### Show current event statistics
 
-Tap on the statistics button (bar chart icon) to review current event statistics.
+Tap on 'Statistics' button to review current event statistics.
 
-General information and the list of archers sorted by current total score is
+General information and the list of archers sorted by total score is
 shown.
 
-Tap on a row in the archers list to get detailed archer statistics.
+Tap on archer's row for detailed archer statistics.
 
 
 # Modify built-in scoring systems
 
-A set of famous 3D archery scoring systems is built into the app.
+A set of known 3D archery scoring systems is built into the app.
 
 However, chances are high you are looking for a different scoring system.
 
@@ -195,11 +198,11 @@ the built-in scoring systems.
 
 Try modifying a built-in scoring systems to make it fit your needs.
 
-Modifying scoring system is done from the app start screen.
+Modifying scoring system is done from the start screen.
 
 Tap the 'Scoring' button. The **Scoring systems list** screen will open.
 
-Tap on row to show scoring system details. The **Scoring
+Tap on a row for scoring system details. The **Scoring
 system details** screen opens.
 
 Tap on 'Edit' to modify scoring system settings.
@@ -216,7 +219,7 @@ Tap 'Done' to save your updates, 'Cancel' to discard.
 
 You can restore built-in scoring systems. This will reset your updates.
 
-Modifying scoring system is done from the app start screen.
+Modifying scoring system is done from the start screen.
 
 Tap the 'Scoring' button. The **Scoring systems list** screen will open.
 
