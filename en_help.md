@@ -2,11 +2,11 @@
 
 Welcome to Easy3DScore App.
 
-Perform the following steps to start your first 3D Event.
+Perform the following steps to start your 3D Event.
 
-- create one or more archers 
+- create one or more archer(s) 
 - create a 3D course (optional)
-- checkout the built-in scoring systems
+- review built-in scoring systems
 - start a new event
 
 ## Creating archers
@@ -49,13 +49,16 @@ Reviewing built-in scoring systems is done from the start screen.
 
 Tap on the 'Scoring' button. The **Scoring systems list** screen will open.
 
-The app includes a predefined set of scoring systems. 
+The app includes a predefined set of standard 3D scoring systems. 
 
 You must select one when starting a new event. 
 
 Tap on a row to show scoring system details. 
 
-Review info shown so you known which scoring system to use for your event.
+Review scoring system info so you known which scoring system to use for your event.
+
+Please note that you can adapt built-in scoring systems to fit your needs. 
+
 
 ## Start New Event
 
@@ -109,7 +112,7 @@ The **Scoring screen** for the first target will open.
 
 Review section below for details on scoring and navigation between targets.
 
-## Scoring
+# Scoring
 
 Starting a new event opens the **Scoring screen** for the first 
 target.
@@ -134,13 +137,13 @@ Enter 'null' scores if archer wants to skip target, i.e. has no shots/scores.
 When done move on to the next target (see section below).
 
 
-### Navigating targets
+# Navigating targets
 
 You can navigate between scored targets at any time during the event. 
 
 This allows review/update of scores for previous targets if needed.
  
-#### Next target
+## Next target
 
 Moving on to next target requires you have entered scores for current target.
 
@@ -150,7 +153,7 @@ There are 2 options to move to next target:
 - tap on '> > >' right to the target number
 
 
-#### Previous target
+## Previous target
 
 There are 2 options to move to previous target:
 
@@ -160,24 +163,28 @@ There are 2 options to move to previous target:
 Moving to previous target is disabled when on first target. 
 
 
-### Exit event 
+# Exit event / Export event result
 
 You can exit the event at any time.
 
 Tap on the Exit button to leave event. 
 
-Event information and archer statistics is shown for your information.
+Event information and archer statistics are shown for your information.
 
-Tap on a row for archer statistics.
+Tap on a row for detailed archer statistics.
+
+Tap on 'Save' to export event result summary as PDF file on
+your device. Open the 'Files' app, select 'On my iPhone'.
+Exported file is in folder 'Easy3DScore'. 
 
 Tap Exit button again. A final confirmation dialog is shown.
 
-All data entered during the event will be lost upon exit.
+All data entered during the event is lost upon exit.
 
 To continue event tap on '< Back' top left.
 
 
-### Show current event statistics
+# Show current event statistics
 
 Tap on 'Statistics' button to review current event statistics.
 
@@ -187,16 +194,20 @@ shown.
 Tap on archer's row for detailed archer statistics.
 
 
-# Modify built-in scoring systems
+# Adapt built-in scoring systems
 
-A set of known 3D archery scoring systems is built into the app.
+A set of standard 3D archery scoring systems is built into the app.
 
-However, chances are high you are looking for a different scoring system.
+However, because there are so many variations, chances are high you
+need different scoring system.
 
-This version of the app supports changing some parameters of
-the built-in scoring systems. 
+App supports changing some parameters of the built-in scoring systems. 
 
-Try modifying a built-in scoring systems to make it fit your needs.
+Try modifying a built-in scoring system to make it fit your needs.
+
+You can adapt any built-in scoring system, but I recommend you
+checkout scoring systems named 'Template ...' first. Adapt
+these if possible and leave standard systems unchanged.
 
 Modifying scoring system is done from the start screen.
 
@@ -210,7 +221,7 @@ Tap on 'Edit' to modify scoring system settings.
 Apps supports changing the following properties:
 - scoring system name 
 - description
-- name of scoring area 
+- name of scoring area
 - score for scoring area
 
 Tap 'Done' to save your updates, 'Cancel' to discard.
@@ -219,7 +230,7 @@ Tap 'Done' to save your updates, 'Cancel' to discard.
 
 You can restore built-in scoring systems. This will reset your updates.
 
-Modifying scoring system is done from the start screen.
+Resetting scoring system is done from the start screen.
 
 Tap the 'Scoring' button. The **Scoring systems list** screen will open.
 
