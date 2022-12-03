@@ -22,7 +22,7 @@ Verfügbar in deutsch und englisch.
 
 Läuft auf iPhones. Ein Link zum AppStore kommt bald. 
 
-Entwurf der (englischen) Dokumentation ist in [en_help](https://github.com/dsasp/Easy3DScore/blob/main/en_help.md) verfügbar. 
+Ein Entwurf der Dokumentation ist in [en_help](https://github.com/dsasp/Easy3DScore/blob/main/de_help.md) verfügbar. 
 
 Eine deutsche Version folgt.
 
