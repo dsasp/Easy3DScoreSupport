@@ -2,17 +2,23 @@
 
 ## English
 
-Simple app to document 3D archery scores. 
+Easy3DScore is a simple app to document 3D archery scores. 
 
-Available for german and english locale.
+Available for english and german locale.
+
+The app does not process personal information. 
+
+All data is kept on your device.
 
 Runs on iPhones. Link to AppStore coming soon.
 
 For [Documentation click here](https://github.com/dsasp/Easy3DScore/blob/main/en_help.md).
 
-The app does not process personal information. App data is kept on your device.
 
-Checkout [Easy3DScore discussion](https://github.com/dsasp/Easy3DScore/discussions/1) to ask questions.
+#### Support
+
+- review [FAQs](https://github.com/dsasp/Easy3DScore/blob/main/en_faq.md)
+- contact me via email (email coming soon)
 
 ## Deutsch
 
@@ -24,7 +30,10 @@ Läuft auf iPhones. Ein Link zum AppStore kommt bald.
 
 Für [Dokumentation hier klicken](https://github.com/dsasp/Easy3DScore/blob/main/de_help.md). 
 
+Die App verarbeitet keine persönlichen Daten. Alle Daten werden auf deinem Gerät gespeichert.
 
-Die App verarbeitet keine persönliche Daten. App Daten werden auf deinem Gerät gespeichert.
+#### Unterstützung bei Fragen
 
-Schau dir [Easy3DScore Diskussionen](https://github.com/dsasp/Easy3DScore/discussions/1) an um Fragen zu stellen. Fragen können selbstverständlich auch auf deutsch gestellt werden.
+- Schau dir [Häufige Fragen](https://github.com/dsasp/Easy3DScore/blob/main/de_faq.md) an.
+- kontaktiere mich per Email (email folgt)
+
