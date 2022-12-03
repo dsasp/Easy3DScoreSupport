@@ -1,2 +1,4 @@
-# Frequently Asked Questions / Häufige Fragen
+# Frequently Asked Questions
+
+coming soon
 
