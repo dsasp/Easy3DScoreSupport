@@ -1,4 +1,4 @@
-# Easy3DScore Support repository 
+# Easy3DScore Support
 App in beta test, not yet available on App Store.
 
 ## English
