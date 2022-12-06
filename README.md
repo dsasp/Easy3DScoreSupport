@@ -6,6 +6,6 @@ Easy3DScore is an app to document 3D archery scores. Use your iPhone to document
 More information available in the [english wiki](https://github.com/dsasp/Easy3DScoreSupport/wiki/English-Version).
 
 ## Deutsch
-Easy3DScore ist eine App für 3D Bogenschützen. Verwende dein iPhone um Ergebnisse 3D Parcour Runde zu dokumentieren. 
+Easy3DScore ist eine App für 3D Bogenschützen. Verwende dein iPhone um Ergebnisse auf einer 3D Parcour Runde zu dokumentieren. 
 
 Mehr Informationen gibt's im [deutschen Wiki](https://github.com/dsasp/Easy3DScoreSupport/wiki/Deutsche-Version).
