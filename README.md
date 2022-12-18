@@ -1,5 +1,5 @@
 # Easy3DScore Support
-App in beta test, not yet available on App Store.
+Version 1 available in Apple App Store.
 
 ## English
 Easy3DScore is an app to document 3D archery scores. Use your iPhone as scoresheet for a 3D archery event.
