@@ -2,7 +2,7 @@
 Version 1 available in Apple App Store.
 
 ## English
-Easy3DScore is an app to document archery scores. Use your iPhone as scoresheet for a 3D archery event or when shooting standard WA / FITA target faces.
+Easy3DScore is a simple archery scoring app. Use your iPhone as scoresheet for a 3D archery event or when shooting standard WA / FITA / NFAA target faces.
 
 More information available in the [english wiki](https://github.com/dsasp/Easy3DScoreSupport/wiki/English-Version).
 
